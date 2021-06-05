@@ -1,0 +1,55 @@
+body{
+ font-family: sans-serif;
+}
+
+img{
+  border-radius: 50%;
+  max-width: 11rem;
+  margin-left: 14%;
+  margin-top: 5px;
+}
+
+h4{
+  font-weight: bold;
+  margin-left: 4%;
+  text-align: center;
+}
+
+h5 {
+  background-color: lightblue;
+  padding: 10px;
+  text-align: center;
+  margin: 0 0;
+}
+
+.card{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  margin-top: 10px;
+  margin-left: 45%;
+}
+
+input{ 
+  margin-bottom: 10px;
+}
+
+#inputbox{
+  margin-left: 34%;
+  margin-top: 40px;
+}
+
+#alertUserduplicate {
+  display: none;
+}
+
+.card-title{
+  display: inline-block;
+  margin-right: 1%;
+  margin-left: 2%;
+}
+
+#alertnoUser {
+  display: none;
+}
